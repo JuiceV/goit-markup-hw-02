@@ -118,11 +118,9 @@ background: #404BBF;
         letter-spacing: 0.02em;
         text-transform: capitalize;
 }
-.team-list{
-    background-color: #FFFFFF
-}
+
 .team-it-foto{
-    background:#FFF;
+    background-color: #FFFFFF;
 }
 .team-it-title{
     color: #2E2F42;
