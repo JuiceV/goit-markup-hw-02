@@ -11,7 +11,7 @@ button{
 body{
     font-family: 'Roboto', sans-serif;
     background: #FFF;
-    color:#2E2F42;
+    color: #434455;
 }
 
 /* LOGO */
@@ -26,6 +26,7 @@ body{
         text-transform: uppercase;
 }
 .logo{
+    color: #2E2F42;
         font-family: 'Raleway', sans-serif;
         font-size: 18px;
         font-weight: 700;
@@ -37,6 +38,7 @@ body{
 /* NAV */
 
 .menu-link{
+    color: #2E2F42;
         font-size: 16px;
         font-weight: 500;
         line-height: 1.5;
@@ -50,7 +52,7 @@ color: #404BBF;
 /* ADDRESS */
 
 .addres-link{
-    color: #434455;
+    font-style: normal;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
@@ -89,13 +91,13 @@ background: #404BBF;
 /* BENEFITS */
 
 .ben-item-title{
+    color: #2E2F42;
         font-size: 20px;
         font-weight: 500;
         line-height: 1.2;
         letter-spacing: 0.02em;
 }
 .ben-item-text{
-    color: #434455;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
@@ -103,9 +105,10 @@ background: #404BBF;
 
 /* OUR TEAM */
 .team-section{
-    background: #F4F4FD;
+    background-color: #FFFFFF;
 }
 .team-title{
+    color: #2E2F42;
         text-align: center;
         font-size: 36px;
         font-weight: 700;
@@ -117,6 +120,7 @@ background: #404BBF;
     background:#FFF;
 }
 .team-it-title{
+    color: #2E2F42;
         text-align: center;
         font-size: 20px;
         font-weight: 500;
@@ -124,7 +128,6 @@ background: #404BBF;
         letter-spacing: 0.02em;
 }
 .team-it-text{
-    color: #434455;
         text-align: center;
         font-size: 16px;
         line-height: 1.5;
@@ -133,6 +136,7 @@ background: #404BBF;
 
 /* OUR PORTFOLIO */
 .portfolio-title{
+    color: #2E2F42;
         text-align: center;
         font-size: 36px;
         font-weight: 700;
@@ -141,13 +145,13 @@ background: #404BBF;
         text-transform: capitalize;
 }
 .port-it-title{
+    color: #2E2F42;
         font-size: 20px;
         font-weight: 500;
         line-height: 1.2;
         letter-spacing: 0.02em;
 }
 .port-it-text{
-    color: #434455;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
