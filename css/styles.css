@@ -50,9 +50,11 @@ color: #404BBF;
 }
 
 /* ADDRESS */
-
-.addres-link{
+.page-adress{
     font-style: normal;
+}
+.addres-link{
+    color: #434455;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
@@ -105,7 +107,7 @@ background: #404BBF;
 
 /* OUR TEAM */
 .team-section{
-    background-color: #FFFFFF;
+    background-color: #F4F4FD;
 }
 .team-title{
     color: #2E2F42;
@@ -115,6 +117,9 @@ background: #404BBF;
         line-height: 1.11;
         letter-spacing: 0.02em;
         text-transform: capitalize;
+}
+.team-list{
+    background-color: #FFFFFF
 }
 .team-it-foto{
     background:#FFF;
