@@ -106,6 +106,7 @@ background: #404BBF;
 }
 
 /* OUR TEAM */
+
 .team-section{
     background-color: #F4F4FD;
 }
@@ -119,7 +120,7 @@ background: #404BBF;
         text-transform: capitalize;
 }
 
-.team-it-foto{
+.team-item{
     background-color: #FFFFFF;
 }
 .team-it-title{
